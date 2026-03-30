@@ -1,0 +1,1 @@
+a basic utility made in c (i know, the irony.) that temporarily compiles and runs a c project.
